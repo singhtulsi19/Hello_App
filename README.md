@@ -1,2 +1,3 @@
-# Hello_App
-Hello App Use Case begins with simple display of Hello World then goes on to display user name then to displaying the names from the command line arguments and then from standard input and then managing the names in a collection with options to list and remove names 
+# HelloApp
+
+Hello App starts with Hello World and evolves step by step into a modular application that accepts names, manages them, and persists data.
